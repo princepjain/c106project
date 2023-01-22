@@ -1,0 +1,61 @@
+.h2, h2 {
+    font-size: 30px;
+}
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.header_div {
+    background: #95A3A4;
+    color: white;
+}
+.text-center {
+    text-align: center;
+}
+body {
+    font-family: 'Akaya Telivigala', cursive;
+    background: #E2E8DD;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    background-color: #333;
+color: antiquewhite;
+    
+}
+html {
+    font-size: 10px;
+    font-family: sans-serif;
+}
+
+#start{
+    margin-top: 10px;
+}
+
+#footer{
+    background-color: black;
+    font-size: 20px;
+    text-align: center;
+}
